@@ -14,3 +14,5 @@ via [Contournement.io](https://fichiers.contournement.io/pdf/webinar-webflow-ale
 -  Build a Financial Dashboard with React 
 via [KendoReact](https://www.telerik.com/kendo-react-ui/)
 - Découverte du système de [CSS Grid Layout](https://developer.mozilla.org/fr/docs/Web/CSS/CSS_Grid_Layout)
+- [ESLint Rules](https://eslint.org/docs/rules/)
+- [TypeScript](https://www.typescriptlang.org/index.html)
