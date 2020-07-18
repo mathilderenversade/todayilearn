@@ -25,10 +25,18 @@ via [KendoReact](https://www.telerik.com/kendo-react-ui/)
 - [Dockerize your Development Environment](https://dev.to/nialljoemaher/dockerize-your-development-environment-1a50?utm_content=buffer5ff6b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [The Cost of Javascript Frameworks](https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/)
 
+## week 3 | june 20
+
+- WP : discovery and implementation of [get_terms function](https://developer.wordpress.org/reference/functions/get_terms/)
+![implementation get_terms ](/get_terms function.png)
+
+- WP : discovery and implementation of [WP_QUERY](https://developer.wordpress.org/reference/classes/wp_query/)
+![implementation WP_QUERY ](/wpquery.png)
+
 ## week 1 | july 20
 
 - i was struggling with a string, function [addslashes](https://www.php.net/manual/fr/function.addslashes.php) didn't do the job. I discovered this function [htmlspecialchars](https://www.php.net/manual/fr/function.htmlspecialchars.php) : worked perfectly well
-![implement functionnal code](/htmlspecialchars.png)
+![implementation functionnal code](/htmlspecialchars.png)
 
 ## week 2 | july 20
 
