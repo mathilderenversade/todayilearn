@@ -28,7 +28,7 @@ via [KendoReact](https://www.telerik.com/kendo-react-ui/)
 ## week 1 | july 20
 
 - i was struggling with a string, function [addslashes](https://www.php.net/manual/fr/function.addslashes.php) didn't do the job. I discovered this function [htmlspecialchars](https://www.php.net/manual/fr/function.htmlspecialchars.php) : worked perfectly well
-![implement functionnal code](/path/to/img.jpg)
+![implement functionnal code](/htmlspecialchars.png)
 
 ## week 2 | july 20
 
