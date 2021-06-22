@@ -43,6 +43,9 @@ via [KendoReact](https://www.telerik.com/kendo-react-ui/)
 - release WP new version : 5.5 with plenty new cool features (wondering if page builder are still an interesting option after that new release)
 via [Wordpress.org](https://wordpress.org/news/2020/07/wordpress-5-5-beta-1/)
 
+## week 1 | september 20
+- Definition and Working principles of a [compiler](https://fr.wikipedia.org/wiki/Compilateur)
+
 ## week 4 | june 2021
 - Learning Clean Code from Robert C.Martin at the moment. Wanted to know more about coding rules and conventions to prepare a course for my students. Read this [Wikipedia article](https://fr.wikipedia.org/wiki/R%C3%A8gles_de_codage) and discovered [PHP CodeSniffer](https://les-enovateurs.com/php-codesniffer-loutil-ultime-pour-valider-et-corriger-votre-code-php/). Definitely will give a try on my next php project.
 - programming style with [Yoda conditions](https://en.wikipedia.org/wiki/Yoda_conditions)
