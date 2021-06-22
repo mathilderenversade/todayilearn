@@ -52,3 +52,11 @@ via [Wordpress.org](https://wordpress.org/news/2020/07/wordpress-5-5-beta-1/)
 
 ### to go further
 [GitHub Action] (https://les-enovateurs.com/github-actions-construire-tester-et-deployer-sans-effort-ci-cd/)
+
+### note : to explore later (Design Patterns) 
+[link 1](https://lagrandepasserelle.saint-malo.fr/opac/catalog/bibrecord?id=toutapprendre_7484_65&referer=%2Fopac%2Fcatalog%2Fsearch%3Fallfields%255B%255D%3Ddesign%2Bpatterns%26filtername%3Dallfields%26isHarvester&num=1)
+[link 2](https://www.fil.univ-lille1.fr/~routier/enseignement/licence/coo/cours/quelques-patterns.pdf)
+[link 3](https://www.journaldev.com/31902/gangs-of-four-gof-design-patterns)
+[Link 4](https://refactoring.guru/design-patterns/catalog)
+[link 5](https://www.jesuisundev.com/design-patterns/)
+[link 6](https://www.ionos.fr/digitalguide/sites-internet/developpement-web/les-design-patterns-quest-ce-que-cest/)
